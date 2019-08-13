@@ -15,4 +15,4 @@ include() function would be used for less important inclusions.
 
 Tip
 If a block of PHP code contains only a single executable statement, it’s common 
-to place both it and the PHP tags on a single line: <?php include('filename.html'); ?>
+to place both it and the PHP tags on a single line: "<?php include('filename.html'); ?>"
